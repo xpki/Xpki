@@ -1,4 +1,4 @@
-## Hi 👋, I'm xpki
+## I'm xpki
 
 ### "if it ain't broke, don't fix it" - Anonymous
 
