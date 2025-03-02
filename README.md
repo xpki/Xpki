@@ -1,29 +1,24 @@
-## Hi 👋, I'm Xpki
+## Hi 👋, I'm xpki
 
-### "Everybody in this country should learn to program a computer because it teaches you how to think." - Steve Jobs
+### "if it ain't broke, don't fix it" - Anonymous
 
 ```json
 {
-  "name": "Iza",
-  "age": 14,
-  "intrests": ["programming", "gaming", "foss software", "digital privacy"],
-  "operatingSystem": "Windows 11",
+  "name": "xpki",
+  "age": 15,
+  "intrests": ["programming", "gaming", "music production"],
+  "operatingSystem": ["Windows 11", "Arch Linux"],
   "browser": "Chrome",
-  "programmingLanguages": ["Lua", "HTML", "JS", "CSS"],
+  "programmingLanguages": ["LUA", "HTML", "JS", "CSS","JAVA"],
   "editor": "VSC",
   "socials": {
     "emails": ["hackerboi8900@gmail.com"],
     "discord": {
-      "username": "iza.html"
+      "username": "xpki"
     },
-    "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
-    "minecraft": "Izahtml",
-    "xboxlive": "HydroVesper2",
-    "reddit": "u/xpki",
-    "steam": "steamcommunity.com/id/Iza](https://steamcommunity.com/profiles/76561199202194960"
+    "spotify": "https://open.spotify.com/user/31mqorkgsmp7x6auifkkdh7h6l3i?si=358ec1fe0be54520",
   },
-  "certifications": ["A+ (Unoffical)"],
-  "learning": "c++",
+  "learning": ["C++", "Java"],
   "hasBrainDamage": true
 }
 ```
