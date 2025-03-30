@@ -1,18 +1,8 @@
 ## Hi I'm xpki! ❤️
 
 ### "if it ain't broke, don't fix it" - Anonymous
-
-## About me
-```json
-{
-  "name": "xpki",
-  "age": 15,
-  "intrests": ["programming", "gaming", "music production"],
-  "programmingLanguages": ["Lua", "Html", "Css", "Js", "Python"],
-  "editor": "VSC",
-  "learning": ["C#"],
-}
-```
+This is where my projects are. check out my biolink/portfolio.
+> https://xpki.github.io/
 ## Quick contact
 - **[Discord](https://discord.com/users/405180450793979904): xpki;**
 
