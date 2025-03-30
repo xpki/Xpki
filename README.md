@@ -3,4 +3,4 @@
 ### "if it ain't broke, don't fix it" - Anonymous
 
 ## Contact
-- [discord](https://discord.com/users/405180450793979904): xpki;
+- [Discord](https://discord.com/users/405180450793979904): xpki;
