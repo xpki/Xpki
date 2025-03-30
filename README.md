@@ -13,7 +13,6 @@
   "learning": ["C#"],
 }
 ```
-
 ## Quick contact
 - [Discord](https://discord.com/users/405180450793979904): xpki;
 
