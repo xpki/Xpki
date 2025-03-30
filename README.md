@@ -2,7 +2,7 @@
 
 ### "if it ain't broke, don't fix it" - Anonymous
 This is where my projects are. check out my biolink/portfolio.
-> https://xpki.github.io/
+> xpki.github.io
 ## Quick contact
 - **[Discord](https://discord.com/users/405180450793979904): xpki;**
 
